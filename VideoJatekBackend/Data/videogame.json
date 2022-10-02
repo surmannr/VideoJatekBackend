@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Marvels Avengers",
+    "category": "TPS fantasy",
+    "developer": "Crystal Dynamics",
+    "publisherId": 2
+  },
+  {
+    "id": 2,
+    "name": "Watch Dogs",
+    "category": "TPS sci-fi action",
+    "developer": "Ubisoft Montreal",
+    "publisherId": 4
+  },
+  {
+    "id": 3,
+    "name": "Assasins Creed Valhalla",
+    "category": "TPS",
+    "developer": "Ubisoft Montreal",
+    "publisherId": 4
+  },
+  {
+    "id": 4,
+    "name": "Assasins Creed Origins",
+    "category": "TPS",
+    "developer": "Ubisoft Montreal",
+    "publisherId": 4
+  },
+  {
+    "id": 5,
+    "name": "tesztUpdate",
+    "category": "tesztUpdate",
+    "developer": "tesztUpdate",
+    "publisherId": 3
+  },
+  {
+    "id": 15,
+    "name": "tesztUpdatev2",
+    "category": "tesztUpdatev2",
+    "developer": "tesztUpdatev2",
+    "publisherId": 1
+  }
+]
